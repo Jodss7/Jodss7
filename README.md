@@ -1,4 +1,7 @@
 # Hello! I am Jodss7, and this is my profile.
+
+---
+
 ### Conheça um pouco mais de mim 
 
 - 👨‍💻 Dev em evolução 
