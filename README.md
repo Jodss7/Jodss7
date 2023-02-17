@@ -5,7 +5,7 @@
 ### Conheça um pouco mais de mim 
 
 - 👨‍💻 Dev em evolução 
-- 👌 Estudando HTML and CSS
+- 👌 Estudando html, css, javascript, python e C#
 - 😎 Me chame de Joabe 
 
 **Como me achar**
