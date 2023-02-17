@@ -13,4 +13,4 @@
 * [Linkedin](https://www.linkedin.com/in/joabe-d-santos-santana-20416b232/)
 * [Dev](https://dev.to/jodss7)
 
-![](https://pixnio.com/free-images/2018/06/29/2018-06-29-22-27-49-1200x800.jpg)
+![](https://www.canva.com/design/DAFaw7O85qs/XechaSkpnhyIaBgcv0AK9Q/edit)
