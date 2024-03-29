@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joabe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Sou desenvolvedor back-and</h3>
 
 - 🌱 I’m currently learning **Estudando javascript com foco em desenvolvimento de APIs com nodejs**
 
